@@ -15,7 +15,7 @@ The difference between Agora Video Call and [Agora Live Interactive Video Stream
 
 ## Functions and scenarios
 
-Agora Video Call boasts a flexible combination of functions for different scenarios.
+
 
 <style> table th:first-of-type {     width: 150px; } th:third-of-type {     width: 170px; }</style>
 
